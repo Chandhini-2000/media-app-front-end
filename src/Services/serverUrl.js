@@ -1,0 +1,1 @@
+export const serverUrl='https://media-app-backend-i4yp.onrender.com/'
